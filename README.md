@@ -38,13 +38,13 @@ End State
 ### Example (probA03)
 3 5 3
 >>>>>>>>>>
-CE \ 
-AD \ 
-B \ 
+CE <br /> 
+AD <br /> 
+B <br />
 >>>>>>>>>>
-\ 
-ADBC \ 
-E
+<br /> 
+ADBC <br />
+E <br />
 >>>>>>>>>>
 
   

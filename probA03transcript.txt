@@ -1,0 +1,6 @@
+Iteration: 1, Depth: 0, Hn: 5, Fn: 5, Qsize: 6, New Children: 6
+Iteration: 2, Depth: 1, Hn: 6, Fn: 7, Qsize: 9, New Children: 4
+Iteration: 3, Depth: 2, Hn: 5, Fn: 7, Qsize: 10, New Children: 2
+Iteration: 4, Depth: 1, Hn: 7, Fn: 8, Qsize: 13, New Children: 4
+Iteration: 5, Depth: 1, Hn: 8, Fn: 9, Qsize: 14, New Children: 2
+Iteration: 6, Depth: 2, Hn: 3, Fn: 5, Qsize: 17, New Children: 4

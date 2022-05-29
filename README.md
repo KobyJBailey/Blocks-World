@@ -36,12 +36,14 @@ End State
 >>>>>>>>>>>
 
 ### Example (probA03)
-3 5 3
->>>>>>>>>>
+3 5 3 <br />
+
+
 CE <br /> 
 AD <br /> 
 B <br />
->>>>>>>>>>
+
+
 <br /> 
 ADBC <br />
 E <br />

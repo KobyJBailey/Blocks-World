@@ -28,20 +28,20 @@ For example:
   ./run probA03 -H h3
   
 ## File structure
-(Number of Stacks) (Number of Blocks) (Amount of randomization [Not applicable])
-\>>>>>>>>>>>
-Initial State
-\>>>>>>>>>>>
-End State
-\>>>>>>>>>>>
+(Number of Stacks) (Number of Blocks) (Amount of randomization [Not applicable]) <br />
+\>>>>>>>>>>> <br />
+Initial State <br />
+\>>>>>>>>>>> <br />
+End State <br />
+\>>>>>>>>>>> <br />
 
 ### Example (probA03)
 3 5 3 <br />
-\>>>>>>>>>>
+\>>>>>>>>>> <br />
 CE <br /> 
 AD <br /> 
 B <br />
-\>>>>>>>>>
+\>>>>>>>>> <br />
 <br /> 
 ADBC <br />
 E <br />

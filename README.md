@@ -29,21 +29,19 @@ For example:
   
 ## File structure
 (Number of Stacks) (Number of Blocks) (Amount of randomization [Not applicable])
->>>>>>>>>>>
+\>>>>>>>>>>>
 Initial State
->>>>>>>>>>>
+\>>>>>>>>>>>
 End State
->>>>>>>>>>>
+\>>>>>>>>>>>
 
 ### Example (probA03)
 3 5 3 <br />
-
-
+\>>>>>>>>>>
 CE <br /> 
 AD <br /> 
 B <br />
-
-
+\>>>>>>>>>
 <br /> 
 ADBC <br />
 E <br />

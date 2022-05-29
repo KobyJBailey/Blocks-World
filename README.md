@@ -45,7 +45,7 @@ B <br />
 <br /> 
 ADBC <br />
 E <br />
->>>>>>>>>>
+\>>>>>>>>>>
 
   
 No known limitations the maximum number of iterations for A* Search is set at 200,000.
